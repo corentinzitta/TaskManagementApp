@@ -1,0 +1,11 @@
+2025-02-02 19:18:17.559343+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "[*]datr"; attendu "DELETE, DROP"
+Syntax error in SQL statement "[*]datr"; expected "DELETE, DROP"; SQL statement:
+datr [42001-232]
+2025-02-02 19:20:48.301449+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Erreur de syntaxe dans l'instruction SQL "[*]datr"; attendu "DELETE, DROP"
+Syntax error in SQL statement "[*]datr"; expected "DELETE, DROP"; SQL statement:
+datr [42001-232]
+2025-02-02 22:04:00.030098+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Erreur lors de la conversion de données "TODO"
+Data conversion error converting "TODO" [22018-232]
